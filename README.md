@@ -1,4 +1,4 @@
-# 📊 Insurance Power BI Dashboard
+<img width="888" height="501" alt="Insurance-Power BI- Dashboard-Screenshot" src="https://github.com/user-attachments/assets/a50c6a51-f52c-43d3-a7ed-331e10ce87f7" /># 📊 Insurance Power BI Dashboard
 
 ## 📌 Project Overview
 
@@ -100,7 +100,8 @@ The dashboard includes:
 
 ## 🖼️ Dashboard Preview
 
-![Insurance Power BI Dashboard](Insurance-Power-BI-Dashboard-Screenshot.png)
+(![Uploading Insurance-Power BI- Dashboard-Screenshot.png…])
+
 
 ---
 
