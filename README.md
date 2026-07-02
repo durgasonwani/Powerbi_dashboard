@@ -1,3 +1,4 @@
+# 📊 Insurance Power BI Dashboard
 ## 📌 Project Overview
 
 This project is an interactive **Insurance Opportunity Performance and Revenue Analysis Dashboard** created using **Microsoft Power BI**.
