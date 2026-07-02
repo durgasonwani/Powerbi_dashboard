@@ -1,5 +1,3 @@
-<img width="888" height="501" alt="Insurance-Power BI- Dashboard-Screenshot" src="https://github.com/user-attachments/assets/a50c6a51-f52c-43d3-a7ed-331e10ce87f7" /># 📊 Insurance Power BI Dashboard
-
 ## 📌 Project Overview
 
 This project is an interactive **Insurance Opportunity Performance and Revenue Analysis Dashboard** created using **Microsoft Power BI**.
@@ -100,7 +98,7 @@ The dashboard includes:
 
 ## 🖼️ Dashboard Preview
 
-(![Uploading Insurance-Power BI- Dashboard-Screenshot.png…])
+<img width="888" height="501" alt="Insurance-Power BI- Dashboard-Screenshot" src="https://github.com/user-attachments/assets/a50c6a51-f52c-43d3-a7ed-331e10ce87f7" />
 
 
 ---
